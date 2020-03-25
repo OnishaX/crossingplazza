@@ -1,4 +1,3 @@
-<!doctype html>
 <html>
 
 <head>
@@ -17,6 +16,6 @@
             </div>
             <input type="submit" type="submit" value="Login" class="btnLogin" />
         </form>
-
+    </div>
 </body>
-</html>
+        
